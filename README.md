@@ -1,1 +1,1 @@
-# ponzischemeoneth
+# Ponzi Scheme on Ethereum Network
